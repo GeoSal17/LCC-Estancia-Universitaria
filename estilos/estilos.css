@@ -82,6 +82,12 @@ body {
   font-size: 22px;
 }
 
+#info {
+  padding-right: 50px;
+  padding-left: 30px; 
+   
+}
+
 #info p {
   color: #474545;
   font-size: 16 px;
@@ -124,3 +130,10 @@ body {
   }
 }
 
+.additional-info {
+  color: #676666;
+  /*float: right;*/
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
