@@ -22,7 +22,7 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #b583c1;
 }
 
 /* Style the topnav links */
@@ -71,15 +71,26 @@ body {
 }
 
 .card li{
-  font-size:22; 
+  font-size:20; 
   font-weight:bold;
-  color: #882cba;
+  color: #ba78de;
   font-size: 20px;
 }
 
+.card h2, h3 {
+  color: #588ab7;
+  font-size: 22px;
+}
+
 #info p {
-  color: #3f3f3f;
+  color: #474545;
   font-size: 16 px;
+}
+
+#importante p{
+  color: #474545;
+  text-align: justify;
+  padding: 20px;
 }
 
 /* Clear floats after the columns */
