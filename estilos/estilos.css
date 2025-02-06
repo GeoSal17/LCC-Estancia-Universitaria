@@ -52,7 +52,7 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: rgb(241, 241, 241);
   padding-left: 20px;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 .card h2, h3 {
-  color: #588ab7;
+  color: rgb(88, 138, 183);
   font-size: 22px;
 }
 
@@ -97,6 +97,10 @@ body {
   color: #474545;
   text-align: justify;
   padding: 20px;
+}
+
+#requisitos li {
+  color: #474545;
 }
 
 /* Clear floats after the columns */
