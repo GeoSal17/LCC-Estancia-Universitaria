@@ -73,6 +73,13 @@ body {
 .card li{
   font-size:22; 
   font-weight:bold;
+  color: #882cba;
+  font-size: 20px;
+}
+
+#info p {
+  color: #3f3f3f;
+  font-size: 16 px;
 }
 
 /* Clear floats after the columns */
